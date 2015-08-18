@@ -1,2 +1,3 @@
 # GitExampleRepo
-EXample data added into file .
+EXample data added into file 
+dadddedd.
